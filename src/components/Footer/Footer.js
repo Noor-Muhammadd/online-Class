@@ -8,8 +8,8 @@ const Footer = () => {
 		<footer className="footer">
 			<Container>
 				<div>
-					&copy; {year} | build with <span>❤️ </span> by{" "}
-					<a href="https://www.linkedin.com/in/saiefalemon/">Saief Al Emon</a>
+					&copy; {year} | build with  by{" "}
+					<a href="#">NoorMuhammad  </a>
 				</div>
 			</Container>
 		</footer>
